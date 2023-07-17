@@ -1,0 +1,25 @@
+h1{
+    font-size: 5em;
+}
+
+#pfp{
+    width: 50vw;
+}
+
+.socials{
+    height: 50px;
+}
+
+body{
+    background-color: blueviolet;
+    color: aliceblue;
+}
+
+div{
+    background-color: #d4aca4;
+}
+
+a{
+    color: brown;
+    text-decoration: none;
+}
