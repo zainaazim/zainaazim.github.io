@@ -43,10 +43,15 @@ i{
     color: gold;
     padding-left: 10px;}
 
-a:link{
+a{
     text-decoration: none;
     font-family: sans-serif;
-    color: cornflowerblue;
+    color: rgb(67, 99, 159);
+}
+
+a:hover{
+    text-decoration: underline;
+    color: white;
 }
 
 
@@ -55,4 +60,8 @@ div{
     background-color: #9a9d9a;
     color: white;
     padding-bottom: 10px;
+}
+
+#audio{
+    background-color: #f0f5f1;
 }
