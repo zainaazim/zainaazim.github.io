@@ -8,7 +8,7 @@ h1{
     margin-top: 30px;
     margin-bottom: 30px;
     margin-left: 30px;
-    margin-right: 400px;
+    margin-right: 280px;
     overflow: auto
 }
 
@@ -21,13 +21,27 @@ h2{
 
 p{
     font-family: sans-serif;
-    background-color: #9a9d9a;
-    color: white;
+    font-size: 12px;
+    font-weight: 600;
+    /*color: #8f918f;*/
+    /*color:#9a9d9a;*/
+    color:#a37c18;
+    background-color: white;
+    padding: 8px 15px;
+    border-style: ridge;
+    border-color: goldenrod;
+    border-width: 6px;
 }
 
 .pics{
-    margin: auto;
-    height: 150px;
+    margin: 60px;
+    height: 140px;
+    border-width: 7px;
+    border-color: #f5ebd0;
+    border-style: inset;
+    outline-style: ridge;
+    outline-width: 16px;
+    outline-color: goldenrod;
 }
 
 .socials{
@@ -35,7 +49,7 @@ p{
 }
 
 body{
-    background-color: #f0f5f1;
+    background-color: #eff3f0;
     color: white;
 }
 
@@ -66,11 +80,22 @@ div{
 #flex1{
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 #flex2{
     display: flex;
     justify-content: center;
-    margin-top: 30px;
+    margin-top: 20px;
+}
+
+#para{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: -12px;
 }
 
