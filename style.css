@@ -1,14 +1,15 @@
 h1{
     font-family: sans-serif;
+    font-size: 30px;
     background-color: #9a9d9a;
     color: white;
     padding-left: 20px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 11px;
+    padding-bottom: 11px;
     margin-top: 30px;
     margin-bottom: 30px;
     margin-left: 30px;
-    margin-right: 233px;
+    margin-right: 238px;
     overflow: auto
 }
 
@@ -22,7 +23,7 @@ h2{
 
 p{
     font-family: sans-serif;
-    font-size: 12px;
+    font-size: 13px;
     font-weight: 600;
     /*color: #8f918f;*/
     /*color:#9a9d9a;*/
@@ -79,7 +80,10 @@ div{
     border-style: solid;
     border-width: 11px;
     margin: 0px -10px;
-    border-color:#324875;
+    border-color:#476286;
+    /*outline-style: ridge;
+    outline-color: rgb(67, 99, 159);
+    outline-width: 5px;*/
 
     
 }
