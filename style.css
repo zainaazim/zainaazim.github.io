@@ -1,7 +1,7 @@
 h1{
     font-family: sans-serif;
     font-size: 30px;
-    background-color: #9a9d9a;
+    background-color: #476286;
     color: white;
     padding-left: 20px;
     padding-top: 11px;
@@ -44,10 +44,6 @@ p{
     outline-style: ridge;
     outline-width: 16px;
     outline-color: goldenrod;
-}
-
-.socials{
-    height: 50px;
 }
 
 body{
